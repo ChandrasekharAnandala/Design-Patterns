@@ -1,0 +1,4 @@
+The Prototype design pattern is a creational pattern that allows you to create new objects by copying an
+ existing instance, known as the prototype. This pattern is useful when the cost of creating a new instance of an
+ object is expensive or when creating an object using another object's state is more convenient than creating
+ it from scratch.
